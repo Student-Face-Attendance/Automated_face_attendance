@@ -4,8 +4,8 @@
 
 ### Web Developer
 
-- [Sathish Dath D S](https://github.com/johndoe)
-- [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue)](https://linkedin.com/in/johndoe)
+- [Sathish Dath D S](https://github.com/dath2006)
+- [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue)](https://www.linkedin.com/in/sathish-dath-d-s-226671321?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app)
 
 - [Amar Bendre](https://github.com/amar07081)
 - [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue)](https://www.linkedin.com/in/amar-bendre-aa3107331?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app)
