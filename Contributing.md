@@ -11,6 +11,11 @@
 - [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue)](https://www.linkedin.com/in/amar-bendre-aa3107331?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app)
 - Role: Backend, Frontend, Database
 
+### Attendance Marking
+
+- [Ankit Reddy](https://github.com/AnkitReddy-Git)
+- [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue)](https://www.linkedin.com/in/ankit-reddy-593b51344?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app)
+
 ### AI/ML Developer
 
 - [Chethan Gowda](https://github.com/DELTAFOX-78)
