@@ -81,11 +81,11 @@ pip install -r requirements.txt
 ```
 
 ## 🚀Running the Application
-### 🖥 Start the Frontend
+### 1. Start the Frontend
 ```bash
 npm run dev
 ```
-### 🔧 Start the Backend
+### 2. Start the Backend
 ```bash
 npm server/index.js
 ```
